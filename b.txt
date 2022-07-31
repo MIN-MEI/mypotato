@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Text0722</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/reset.css">
+  <script src="js/jquery-2.2.3.min.js"></script>
+  <script src="js/index.js"></script>
+  <script src="https://kit.fontawesome.com/12a88fb21e.js" crossorigin="anonymous"></script>
+
+  <div class="header bg-green">
+    <ul class="menu">
+      <li><a href="index.html"><img src="">LOGO</a></li>
+      <li><a href="#">關於我們</a></li>
+      <li>
+        <a href="sport.html" class="dropdown">球類運動</a>
+        <!--<ul class="dropdown-open">
+          <li class=""><a href="#" style="text-align: center;">羽  球</a></li>
+          <li><a href="#" style="text-align: center;">籃  球</a></li>
+          <li><a href="#" style="text-align: center;">桌  球</a></li>
+        </ul>-->
+      </li>
+      <li><a href="#">專業場地</a></li>
+      <li><a href="#">最新消息</a></li>
+      <li>
+        <a href="#" class="dropdown1">會員登入</a>
+        <!--<ul class="dropdown1-open">
+          <li><a href="#" style="text-align: center;">使  用  者</a></li>
+          <li><a href="#" style="text-align: center;">管  理  者</a></li>
+        </ul>-->
+      </li>
+      <li>
+        <div class="search">
+          <input class="search-bar" type="text" name="search" id="search" placeholder="關鍵字">
+          <button class="search-btn"><i class="fa-solid fa-magnifying-glass"></i></button>
+        </div>
+      </li>
+    </ul>
+  </div>
+</head>
+<body>
+<div class="wrapper">
+    <div class="left box">
+      <h1>網站簡介</h1><br>
+      <p style="font-family: 新細明體;">=================================</p>
+
+    </div>
+    <div class="right">
+      <h1>網站理念</h1><br>
+      <p style="font-family: 新細明體;">=================================</p>
+    </div>
+  
+
+
+  
+</div>
+  <footer>   <!--底板-->
+    <p>Copyright © 2022 XXX版權所有</p>
+  </footer>
+</body>
+</html>
